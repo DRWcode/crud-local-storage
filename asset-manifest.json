@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/crud-local-storage/static/css/main.f855e6bc.css",
-    "main.js": "/crud-local-storage/static/js/main.967bc0ca.js",
+    "main.css": "/crud-local-storage/static/css/main.e6c13ad2.css",
+    "main.js": "/crud-local-storage/static/js/main.9f6b487e.js",
     "static/js/453.7440383d.chunk.js": "/crud-local-storage/static/js/453.7440383d.chunk.js",
-    "static/media/logo.svg": "/crud-local-storage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/crud-local-storage/index.html",
-    "main.f855e6bc.css.map": "/crud-local-storage/static/css/main.f855e6bc.css.map",
-    "main.967bc0ca.js.map": "/crud-local-storage/static/js/main.967bc0ca.js.map",
+    "main.e6c13ad2.css.map": "/crud-local-storage/static/css/main.e6c13ad2.css.map",
+    "main.9f6b487e.js.map": "/crud-local-storage/static/js/main.9f6b487e.js.map",
     "453.7440383d.chunk.js.map": "/crud-local-storage/static/js/453.7440383d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.967bc0ca.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9f6b487e.js"
   ]
 }
